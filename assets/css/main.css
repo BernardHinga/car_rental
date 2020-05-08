@@ -251,6 +251,8 @@
             a:hover {
                 border-bottom-color: transparent;
                 color: salmon !important;
+                text-decoration: none;
+                font-size: large;
             }
             
             a:active {
