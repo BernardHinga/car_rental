@@ -306,6 +306,8 @@
             
             h3 {
                 font-size: 1.35em;
+                color: salmon;
+                text-decoration: underline;
             }
             
             h4 {
