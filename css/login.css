@@ -1,0 +1,8 @@
+body {
+    background-image: url(/images/login.jpg);
+}
+
+#login {
+    background-color: rgba(15, 29, 37, 0.178);
+    position: relative;
+}
